@@ -1,11 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <h1>hadeh error njir</h1>
+    <div className="container">
+      <header className="row">
+        <h1>undeploy h1</h1>
       </header>
     </div>
   );
